@@ -7,7 +7,8 @@ Linkchecker består af 3 elementer.
 - WP plugin (Som henter den table som linkCheck_client laver) 
 
 Wordpress plugin delen er lavet med PHP, og er klar til installering. 
-Består af en includes mappe, med en CSS fil og en download manager
+Består af en includes mappe, med en CSS fil og en download manager.
+I filen wp-list-table, ligger iframe delen som indlæser tabel.
 
 Brug af plugin, kræver at linkChecker_client er installeret, og ligger på en liveserver. 
 
